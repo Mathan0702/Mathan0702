@@ -50,7 +50,7 @@
 
 ## 📫 How to reach me
 <p align="left">
-<a href="https://www.instagram.com/dheshieghan_?igsh=c2MxbzI0Yzl5YnJi&utm_source=qr"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/dheshieghan_/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mthnnnn_?igsh=MTJvOGsyZDlrcGlzMw=="target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/mthnnnn_/" height="30" width="40" /></a>
   
  <a href="mailto:mathanrao0702@gmail.com"><img src="https://img.shields.io/badge/mathanrao0702@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
 
